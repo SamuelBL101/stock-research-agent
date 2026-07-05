@@ -1,0 +1,21 @@
+# Local scratch/output folders used by Codex workspace
+work/
+outputs/
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
