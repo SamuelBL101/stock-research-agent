@@ -16,4 +16,5 @@ The output of this phase becomes the input for requirements.
 - `use_cases.md` - concrete use cases and flows
 - `actors.md` - users and system actors
 - `mvp_boundary.md` - what belongs in MVP and what waits
-
+- `use_case_template.md` - standard structure for future use cases
+- `open_questions.md` - decisions that must be answered before requirements
